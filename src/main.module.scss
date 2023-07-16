@@ -1,0 +1,22 @@
+input, select {
+    padding: 9px 22px;
+}
+
+a {
+    background-color: white;
+    color: black;
+    padding: 10px;
+    text-decoration: none;
+}
+
+.page {
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 80%;
+}

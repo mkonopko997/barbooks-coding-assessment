@@ -1,0 +1,35 @@
+[
+  {
+    "id": 540,
+    "title": "Overwatch 2",
+    "thumbnail": "/g/540/thumbnail.jpg",
+    "shortDescription": "A hero-focused first-person team shooter from Blizzard Entertainment.",
+    "genre": "Shooter",
+    "platform": "PC (Windows)",
+    "publisher": "Activision Blizzard",
+    "developer": "Blizzard Entertainment",
+    "releaseDate": "2022-10-04"
+  },
+  {
+    "id": 521,
+    "title": "Diablo Immortal",
+    "thumbnail": "/g/521/thumbnail.jpg",
+    "shortDescription": "Built for mobile and also released on PC, Diablo Immortal fills in the gaps between Diablo II and III in an MMOARPG environment.",
+    "genre": "MMOARPG",
+    "platform": "PC (Windows)",
+    "publisher": "Blizzard Entertainment",
+    "developer": "Blizzard Entertainment",
+    "releaseDate": "2022-06-02"
+  },
+  {
+    "id": 517,
+    "title": "Lost Ark",
+    "thumbnail": "/g/517/thumbnail.jpg",
+    "shortDescription": "Smilegate’s free-to-play multiplayer ARPG is a massive adventure filled with lands waiting to be explored, people waiting to be met, and an ancient evil waiting to be destroyed.",
+    "genre": "ARPG",
+    "platform": "PC (Windows)",
+    "publisher": "Amazon Games",
+    "developer": "Smilegate RPG",
+    "releaseDate": "2022-02-11"
+  }
+]

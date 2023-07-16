@@ -1,0 +1,33 @@
+.multiselect {
+  width: 60%;
+  display: flex;
+  align-items: center;
+  margin: 0 50px;
+
+  input {
+    width: 100%;
+    box-sizing: border-box;
+  }
+}
+
+.inputContainer {
+  margin-left: 10px;
+  position: relative;
+  flex: 1;
+}
+
+.valuesContainer {
+  display: inline-block;
+  position: absolute;
+  left: 0;
+  top: 2px;
+}
+
+.valueItem {
+  color: white;
+  background-color: black;
+  padding: 7px;
+  border-radius: 20px;
+  width: 105px;
+}
+

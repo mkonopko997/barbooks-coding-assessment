@@ -1,0 +1,65 @@
+.container {
+  width: 100%;
+}
+
+.searchInput {
+  display: flex;
+  justify-content: center;
+}
+
+.selects {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  margin: 20px 0;
+}
+
+.gameList {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.game {
+  width: 49%;
+  border: 1px solid black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 250px;
+  margin-bottom: 20px;
+}
+
+.content {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  justify-content: space-between;
+}
+
+.thumbnail {
+  margin: 10px;
+  width: 40%;
+
+  img {
+    max-width: 100%;
+  }
+}
+
+.description {
+  margin: 10px;
+  width: 60%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.viewMore {
+  align-self: end;
+}
+
+.loading {
+  width: 100%;
+  text-align: center;
+}
